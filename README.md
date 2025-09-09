@@ -49,8 +49,8 @@ It highlights the **core challenges of FL**, particularly training on **non-iden
 
 1. Clone this repository or download the files:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/amey0307/Federated-Skeleton-based-Action-Recognition.git
+   cd Federated-Skeleton-based-Action-Recognition
 
 2.	(Optional) Create a virtual environment:
     ```bash
