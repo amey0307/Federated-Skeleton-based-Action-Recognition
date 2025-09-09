@@ -65,8 +65,8 @@ It highlights the **core challenges of FL**, particularly training on **non-iden
 ## How to Run the Project:
 1. (Optional) To build "action_recognition_model.pth" file by training
     ```bash
-    python python federated_skeleton_learning.py
+    python3 federated_skeleton_learning.py
 
 2. Run Real-time Action Prediction
     ```bash
-    python predict_action.py
+    python3 predict_action.py
